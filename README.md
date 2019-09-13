@@ -1,5 +1,3 @@
 # git-remote
 
-Luke, im m your father !
-
-NOOOOOOOOOOOOOOOOOO!
+Ceci est mon premier commit
